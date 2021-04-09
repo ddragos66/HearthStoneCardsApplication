@@ -1,0 +1,17 @@
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\HearthStoneCardsApplication.exe
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\HearthStoneCardsApplication.deps.json
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\HearthStoneCardsApplication.runtimeconfig.json
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\HearthStoneCardsApplication.runtimeconfig.dev.json
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\HearthStoneCardsApplication.dll
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\HearthStoneCardsApplication.pdb
+C:\Users\drago\source\repos\HearthStoneCardsApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.Form1.resources
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.AssemblyInfo.cs
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.csproj.CopyComplete
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.dll
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.pdb
+C:\Users\drago\source\repos\HearthStoneCardsApplication\obj\Debug\netcoreapp3.1\HearthStoneCardsApplication.genruntimeconfig.cache
