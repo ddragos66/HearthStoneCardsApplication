@@ -1,7 +1,5 @@
-Proiectul foloseste un api prin care afișează carți din jocul HearthStone.
+Proiectul foloseste acest api (https://rapidapi.com/omgvamp/api/hearthstone?endpoint=5525c47de4b0b69ffe83f7bd) prin care afișează carți din jocul HearthStone.
 
-Până acuma putem schimba carțile cu două butoane "Next" și "Back".
+PPutem schimba carțile cu două butoane "Next" și "Back" dar și să salvăm cartea.
 
-Mai trebuie să fac să afișeze detalii despre aceste cărți și să interacționeze cu sistemul de operare.
-
-![alt text](demo.png)
+![alt text](interface.png)
