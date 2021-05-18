@@ -2,4 +2,4 @@ Proiectul foloseste acest api (https://rapidapi.com/omgvamp/api/hearthstone?endp
 
 PPutem schimba carțile cu două butoane "Next" și "Back" dar și să salvăm cartea.
 
-![alt text](interface.png)
+![alt text](Interface.png)
